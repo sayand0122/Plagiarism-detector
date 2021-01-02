@@ -1,0 +1,8 @@
+Labs in 1959. The MOS transistor's advantages include high scalability,[14] affordability,[15] 
+low power consumption, and high density.[16] The MOS transistor revolutionized the electronics industry,
+[17][18] and is the most common semiconductor device in the world.
+Information storage can be easier in digital systems than in analog ones. The noise immunity of digital
+systems permits data to be stored and retrieved without degradation. In an analog system, noise from aging
+and wear degrade the information stored. In a digital system, as long as the total noise is below a certain
+level, the information can be recovered perfectly. Even when more significant noise is present, the use of
+redundancy permits the recovery of the original data provided too many errors do not occur.
