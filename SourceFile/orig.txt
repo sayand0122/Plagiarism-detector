@@ -1,0 +1,15 @@
+  
+The MOSFET (metal-oxide-semiconductor field-effect transistor), also known as the MOS transistor, was
+invented by Mohamed Atalla and Dawon Kahng at Bell Labs in 1959.[10][11][12][13] The MOS transistor's
+advantages include high scalability,[14] affordability,[15] low power consumption, and high density.[16]
+The MOS transistor revolutionized the electronics industry,[17][18] and is the most common semiconductor
+device in the world.[12][19] The MOS transistor has been the fundamental building block of digital
+electronics since the late 20th century.
+
+In the early days of integrated circuits, each chip was limited to only a few transistors, and the low
+degree of integration meant the design process was relatively simple. Manufacturing yields were also quite
+low by today's standards. The wide adoption of the MOSFET transistor by the early 1970s led to the first
+large-scale integration ICs with more than 10,000 transistors on a single chip. Following the wide
+adoption of CMOS, a type of MOSFET logic, by the 1980s, millions and then billions of MOS transistors
+could be placed on one chip as the technology progressed, and good designs required thorough planning,
+giving rise to new design methods. As of 2013, billions of MOS transistors are manufactured every day.
